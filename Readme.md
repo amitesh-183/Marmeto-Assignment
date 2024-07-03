@@ -1,6 +1,6 @@
-# Coding Assessment L-2 Code Submission Process by B.Amitesh
+# Coding Assessment L-2 Code Submission by B.Amitesh
 
-Welcome to the coding assessment l2. We are excited to see your skills in action. Please follow the instructions below to submit your solution.
+Welcome to the coding assessment l2. Please follow the instructions below to submit your solution.
 
 ## Getting Started
 
@@ -29,7 +29,3 @@ Welcome to the coding assessment l2. We are excited to see your skills in action
 - `script.js`: JavaScript file for scripting logic.
 - `README.md`: Documentation for your project.
 - `assets`: Assets of the project.
-
-# Marmeto-Assignment
-
-# Marmeto-Assignment
